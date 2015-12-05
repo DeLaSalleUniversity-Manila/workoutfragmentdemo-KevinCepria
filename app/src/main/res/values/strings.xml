@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WorkoutFragmentDemo</string>
+    <string name="action_settings">Settings</string>
+</resources>
